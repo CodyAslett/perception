@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://touchgraph.com/assets/applet/seo/" >
+    <information>
+        <title>TouchGraph SEO</title>
+        <vendor>TouchGraph</vendor>
+        <offline-allowed/>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.6+" href=
+            "http://java.sun.com/products/autodl/j2se"/>
+        <jar href="TouchGraph%20Seo%20Browser.jar"
+            main="true" />
+        <jar href="jxl.jar" />
+       
+    </resources>
+
+    <applet-desc
+         name="TouchGraph SEO"
+         main-class="com.touchgraph.seobrowser.SeoBrowserApplet.class"
+         width="900"
+         height="600">
+
+         <param name="target" value = "_blank"/>
+         <param name="initial_id" value="related%3Abyui.edu"/> 
+
+     </applet-desc>
+     <update check="background"/>
+</jnlp>

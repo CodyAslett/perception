@@ -1,0 +1,36 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+1. Please provide the URL of your public GitHub repository.
+https://github.com/CharlesMartel18/CS450.git
+
+2. What was the most difficult part of this assignment?
+In a way it was working with the missing data from the MPG dataset, though I don't think it was really the fact that the data was missing. Some students seemed to be able to use the same functions for changing the "?" to the mean of the column, but mine would not work with them. It still isn't quite working, but I was able to change the "?" to 0's.
+
+3. Briefly describe your process for handling non-numeric data.
+For the most part, any non-numeric data I changed to a range between 0 and the number of different values it could have been 
+
+4. Briefly describe your process for missing data.
+
+
+5. Describe your results for the Car Evaluation dataset.
+
+
+6. Describe your results for the Pima Indian dataset.
+
+
+7. Describe your results for the Automobile MPG dataset.
+
+
+8. Describe anything you did to go above and beyond the minimum standard requirements.
+
+
+9. Please select the category you feel best describes your assignment:
+A - Some attempt was made
+B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+
+10. Provide a brief justification (1-2 sentences) for selecting that category.
+

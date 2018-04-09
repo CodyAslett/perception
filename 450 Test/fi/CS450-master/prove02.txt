@@ -1,0 +1,30 @@
+When your assignment is complete, please answer the questions in this text file and upload it to I-Learn.
+
+1. Please provide the URL of your public GitHub repository.
+https://github.com/CharlesMartel18/CS450.git
+
+2. Briefly describe your overall approach to the task and highlight the most difficult part of this assignment.
+I was trying hard to understand the algorithm of kNearestNeighbors and I think I eventually did, but some of the variable names they used in the algorithm in the book really threw me off. That, trying to understand python’s classes, and having bronchitis all combined to keep me from completing this assignment.
+
+3. Briefly describe your process for handling numeric data on different scales (i.e., normalizing).
+I would have attempted to use the standard deviations of each kind of data in the dataset.
+
+4. Describe your results for the Iris data set. (For example, what level of accuracy did you see for different values of K?
+I did not make it that far for either my own or an outside KNN.
+
+5. How did your implementation compare to existing implementations?
+Well, it looks very similar to the one in the book, but I did talk with someone about using spicy.mode() to improve it and tried to implement that.
+
+6. Describe anything you did to go above and beyond the minimum standard requirements.
+Not applicable. :)
+
+7. Please select the category you feel best describes your assignment: A or B
+This one -> A - Some attempt was made <- But really, probably this one.
+Or this one -> B - Developing, but significantly deficient
+C - Slightly deficient, but still mostly adequate
+D - Meets requirements
+E - Shows creativity and excels above and beyond requirements
+
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I have all my code from last week and I have a small amount of work accomplished on my own KNN, but I was unable to run my code (probably a lot to do with my current lack of understanding of python classes and their functions, and also because my computer couldn’t find the sklearn libraries for some reason, though it had worked before) and spent my time trying to understand more than trying to type. So, I made an attempt, but it’s really bad. I’ll keep working on it, though.

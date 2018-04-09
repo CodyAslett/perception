@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\Sam\\Anaconda3\\python.exe",
+    "python.formatting.provider": "autopep8"
+}
